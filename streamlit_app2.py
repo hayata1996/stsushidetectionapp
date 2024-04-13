@@ -26,7 +26,7 @@ with st.sidebar:
         #st.image('mg.png')
         st.title(":sushi:画像識別:pizza:")
         st.subheader("Resnetを転移学習したモデルを使用しています。Sushi:sushi: or Steak:meat_on_bone: or Pizza:pizza:?!を判別します:rainbow:")
-        st.subheader("Github: https://github.com/hayata1996/stmangoapp")
+        st.subheader("Github: https://github.com/hayata1996/stsushidetectionapp")
         #st.subheader("トレーニングに使用した画像リンク: https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset?ref=blog.streamlit.io")
 
 
